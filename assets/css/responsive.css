@@ -1,0 +1,506 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+  .hero-wrapper {
+	padding-top: 175px;
+}
+.hero-area.min-height {
+	min-height: 470px;
+}  
+ .hero-wrapper h2 {
+	font-size: 50px;
+	line-height: 66px;
+}   
+ .trans-2 {
+	top: 140px;
+	right: 226px;
+	max-width: 250px;
+}   
+ .trans-1 {
+	left: -11px;
+	z-index: -1;
+	max-width: 160px;
+}   
+.texarea {
+	padding-bottom: 70px;
+	margin-top: -130px;
+}    
+.recent-area {
+	padding-bottom: 20px;
+}    
+    
+ .about-title h2 {
+	font-size: 40px;
+	margin-bottom: 80px;
+}   
+ .about-all-content h4 {
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 10px;
+}   
+    
+.about-all-content {
+	margin-bottom: 30px;
+}
+ .about-all-content p {
+	font-size: 15px;
+	line-height: 28px;
+	margin: 0;
+	padding-right: 0;
+}   
+ .about-area {
+	padding-bottom: 40px;
+	padding-top: 30px;
+}   
+ .rulse-select .nice-select {
+	margin-bottom: 38px;
+}   
+    
+  .faq-wrapper .card-body {
+	line-height: 28px;
+	font-size: 15px;
+
+}  
+ .vertical-wrap-text p {
+	font-size: 15px;
+	line-height: 28px;
+	padding-right: 0;
+}   
+  .container {
+	max-width: 1170px;
+	margin: auto;
+}  
+.rulse-area {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .hero-wrapper {
+	padding-top: 175px;
+}
+.hero-area.min-height {
+	min-height: 470px;
+}  
+ .hero-wrapper h2 {
+	font-size: 50px;
+	line-height: 66px;
+}   
+ .trans-2 {
+	top: 140px;
+	right: 226px;
+	max-width: 250px;
+}   
+ .trans-1 {
+	left: -11px;
+	z-index: -1;
+	max-width: 160px;
+}   
+.texarea {
+	padding-bottom: 70px;
+	margin-top: -130px;
+}    
+.recent-area {
+	padding-bottom: 20px;
+}    
+    
+ .about-title h2 {
+	font-size: 40px;
+	margin-bottom: 80px;
+}   
+ .about-all-content h4 {
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 10px;
+}   
+    
+.about-all-content {
+	margin-bottom: 30px;
+}
+ .about-all-content p {
+	font-size: 15px;
+	line-height: 28px;
+	margin: 0;
+	padding-right: 0;
+}   
+ .about-area {
+	padding-bottom: 40px;
+	padding-top: 30px;
+}   
+ .rulse-select .nice-select {
+	margin-bottom: 38px;
+}   
+    
+  .faq-wrapper .card-body {
+	line-height: 28px;
+	font-size: 15px;
+
+}  
+ .vertical-wrap-text p {
+	font-size: 15px;
+	line-height: 28px;
+	padding-right: 0;
+}   
+  .container {
+	max-width: 1170px;
+	margin: auto;
+}  
+.rulse-area {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+   .hero-wrapper {
+	padding-top: 175px;
+}
+.hero-area.min-height {
+	min-height: 470px;
+}  
+.hero-wrapper h2 {
+	font-size: 40px;
+	line-height: 55px;
+}  
+ .trans-2 {
+	top: 140px;
+	right: 226px;
+	max-width: 250px;
+}   
+ .trans-1 {
+	left: -11px;
+	z-index: -1;
+	max-width: 160px;
+}   
+.texarea {
+	padding-bottom: 70px;
+	margin-top: -130px;
+}    
+.recent-area {
+	padding-bottom: 20px;
+}    
+    
+.about-title h2 {
+	font-size: 36px;
+	margin-bottom: 66px;
+}   
+ .about-all-content h4 {
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 10px;
+}   
+    
+.about-all-content {
+	margin-bottom: 30px;
+}
+ .about-all-content p {
+	font-size: 15px;
+	line-height: 28px;
+	margin: 0;
+	padding-right: 0;
+}   
+ .about-area {
+	padding-bottom: 40px;
+	padding-top: 30px;
+}   
+ .rulse-select .nice-select {
+	margin-bottom: 38px;
+}   
+    
+  .faq-wrapper .card-body {
+	line-height: 28px;
+	font-size: 15px;
+
+}  
+ .vertical-wrap-text p {
+	font-size: 15px;
+	line-height: 28px;
+	padding-right: 0;
+}   
+  .container {
+	max-width: 1170px;
+	margin: auto;
+}  
+.rulse-area {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}  
+    
+ .text-inner p {
+	font-size: 16px;
+}   
+  .about-thumb {
+	margin-bottom: 50px;
+}  
+.about-thumb img {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	max-width: 440px;
+}   
+  .footer-text p {
+	font-size: 16px;
+}  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+.toggle-bar {
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+} 
+.hero-wrapper {
+	padding-top: 100px;
+	position: relative;
+	z-index: 33333;
+}
+.hero-area.min-height {
+	min-height: 341px;
+}  
+.hero-wrapper h2 {
+	font-size: 32px;
+	line-height: 44px;
+}  
+.trans-2 {
+	display: none;
+} 
+ .trans-1 {
+	left: -11px;
+	z-index: -1;
+	max-width: 160px;
+}   
+.texarea {
+	padding-bottom: 40px;
+	margin-top: -85px;
+}   
+.recent-area {
+	padding-bottom: 20px;
+}    
+    
+.about-title h2 {
+	font-size: 32px;
+	margin-bottom: 60px;
+}  
+ .about-all-content h4 {
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 10px;
+}   
+ .hero-wrapper br {
+	display: none;
+}   
+.about-all-content {
+	margin-bottom: 30px;
+}
+ .about-all-content p {
+	font-size: 15px;
+	line-height: 28px;
+	margin: 0;
+	padding-right: 0;
+} 
+.right-btn {
+	display: none;
+}    
+  .header-area.Sticky.scroll-header .header-mainmenu ul li a {
+	padding: 12px 30px;
+}  
+.about-area {
+	padding-bottom: 0;
+	padding-top: 0;
+}  
+ .rulse-select .nice-select {
+	margin-bottom: 38px;
+}   
+    
+  .faq-wrapper .card-body {
+	line-height: 28px;
+	font-size: 15px;
+
+}  
+ .vertical-wrap-text p {
+	font-size: 15px;
+	line-height: 28px;
+	padding-right: 0;
+}   
+  .container {
+	max-width: 1170px;
+	margin: auto;
+}  
+.rulse-area {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}  
+    
+ .text-inner p {
+	font-size: 16px;
+}   
+  .about-thumb {
+	margin-bottom: 50px;
+}  
+.about-thumb img {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	max-width: 250px;
+}   
+  .footer-text p {
+	font-size: 16px;
+}  
+ .header-logo a img {
+	max-width: 172px;
+}
+    .header-logo a img {
+	max-width: 172px;
+}
+.header-site-menu {
+	display: block;
+}  
+  .header-area {
+	padding: 30px 0;
+}  
+.textarea-block textarea {
+	width: 100%;
+	height: 160px;
+	padding: 20px;
+	font-size: 16px;
+} 
+    
+   .vertical-pills .nav-link {
+	width: 100%;
+	height: 55px;
+
+} 
+    
+ .vertical-wrap-text h4 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}   
+.vertical-pills {
+	margin-bottom: 30px;
+}    
+    .header-mainmenu i {
+	display: block;
+}
+    
+    
+    
+    
+    
+.header-mainmenu {
+	width: 300px;
+	height: 100%;
+	background: #fff;
+	z-index: 99999;
+	position: fixed;
+	top: 0;
+	left: 0;
+	transition: .3s;
+	transform: translateX(-300px);
+	padding: 20px 0;
+}
+
+.header-mainmenu.active {
+    transform: translateX(0);
+} 
+.header-mainmenu ul li a {
+	color: #000;
+	padding: 12px 30px;
+	border-bottom: 1px solid#ddd;
+}
+ .header-mainmenu ul li {
+	display: block;
+	margin: 0;
+	padding-left: 0;
+}   
+    
+   .footer-text {
+	text-align: center;
+	
+} 
+.footer-social {
+	text-align: center;
+	margin-bottom: 30px;
+}
+ #scrollUp {
+	width: 40px;
+	height: 40px;
+	bottom: 17px;
+	right: 28px;
+	line-height: 40px;
+	font-size: 27px;
+
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+    
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    
+ 
+}

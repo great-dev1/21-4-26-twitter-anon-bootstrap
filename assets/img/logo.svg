@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="41" viewBox="0 0 275 41">
+  <g id="Group_3" data-name="Group 3" transform="translate(-278 -42)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0.2 -36)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M98,40H0A43.641,43.641,0,0,1,15.989,11.565,50.111,50.111,0,0,1,31.01,3.087a53.967,53.967,0,0,1,35.979,0,50.111,50.111,0,0,1,15.021,8.478A43.641,43.641,0,0,1,98,40Z" transform="translate(277.8 78)" fill="#fff"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="7.5" cy="7" rx="7.5" ry="7" transform="translate(302.8 94)" fill="#0067f4"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="7.5" cy="7" rx="7.5" ry="7" transform="translate(335.8 94)" fill="#0067f4"/>
+    </g>
+    <text id="TwitterAnon" transform="translate(392 75)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TwitterAnon</tspan></text>
+  </g>
+</svg>
